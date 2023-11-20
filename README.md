@@ -53,11 +53,14 @@ await newImageGenerator.generateRandomImageData(2);
 ```
 
 **Estrutura do Projeto**
+
 `FuturisticImageGenerator` (class): Encapsula todas as funcionalidades.
 `./imagens/` (diretório): Armazena as imagens geradas.
 
 **Contribuições**
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorias no código.
 
 **Por que eu opto por comentar em inglês?**
+
 Me sinto mais confortável e espontâneo ao cometer tal ato. Peço que não me julguem por esta escolha. >:
