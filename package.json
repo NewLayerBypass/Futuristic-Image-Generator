@@ -1,0 +1,18 @@
+{
+  "name": "futuristicimagegenerator_v1.0.2",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "NewLayer, Discord: newlayer",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.23",
+    "chance": "^1.1.11",
+    "puppeteer": "^21.5.2",
+    "sharp": "^0.32.6"
+  }
+}
