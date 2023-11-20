@@ -1,7 +1,7 @@
-**Futuristic Image Generator**
+*Futuristic Image Generator*
 Este é um projeto simples de geração de imagens futurísticas utilizando uma rede neural implementada com a biblioteca `brain.js`. O código está estruturado em uma classe chamada `FuturisticImageGenerator` que encapsula todas as funcionalidades necessárias para treinar um modelo, gerar imagens aleatórias e salvar/carregar o modelo treinado.
 
-**Como Usar**
+*Como Usar*
 Instalação de Dependências:
 Certifique-se de ter as dependências instaladas usando o seguinte comando:
 
